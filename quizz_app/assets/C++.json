@@ -1,0 +1,88 @@
+[
+  {
+    "1": "What is the output of the following program? \n #include<iostream>\nusing namespace std;\nclass abc { \n   void f();\n   void g();\n   int x;\n};\nmain() {\n   cout<<sizeof(abc)<<endl;\n}",
+    "2": "Which data type can be used to hold a wide character in C++ ?",
+    "3": "Operators sizeof and ?: ",
+    "4": "How many number of arguments can a destructor of a class receives?",
+    "5": "What is the output of the following program? \n #include<iostream> \n using namespace std;\nmain() {\n   short unsigned int i = 0; \n cout<<i--;\n}",
+    "6": "A C++ program statements can be commented using",
+    "7": "What is the output of the following program? \n #include<iostream>\n using namespace std;\n main() { \n   int const a = 5;\n     a++; \n   cout<<a; \n}",
+    "8": "What is the output of the following program? \n #include<iostream>\nusing namespace std;\nmain() { \n   int i = 13, j = 60;  \n   i^=j;\n   j^=i;\n   i^=j;\n   cout<<i<<\" \"<<j;\n}",
+    "9": "The default executable generation on UNIX for a C++ program is ___",
+    "10": "What is the output of the following program? \n #include<iostream>\n using namespace std;\nmain() {\n   int a[] = {10, 20, 30};\n   cout<<*a+1;\n} "
+  },
+  {
+    "1": {
+      "a": "12",
+      "b": "4",
+      "c": "8",
+      "d": "Compile error"
+    },
+    "2": {
+      "a": "unsigned char",
+      "b": "int",
+      "c": "wchar_t",
+      "d": "None of the above"
+    },
+    "3": {
+      "a": "Both can be overloaded",
+      "b": "Both cannot be overloaded",
+      "c": "Only sizeof can be overloaded",
+      "d": "Only ?: can be overloaded"
+    },
+    "4": {
+      "a": "0",
+      "b": "1",
+      "c": "2",
+      "d": "None of the above"
+    },
+    "5": {
+      "a": "0",
+      "b": "Compile error",
+      "c": "65535",
+      "d": "32767"
+    },
+    "6": {
+      "a": "Single line comment",
+      "b": "Multi line comment",
+      "c": "Either (a) or (b)",
+      "d": "Both (a) and (b)"
+    },
+    "7": {
+      "a": "5",
+      "b": "6",
+      "c": "Runtime error",
+      "d": "Compile error"
+    },
+    "8": {
+      "a": "73 73",
+      "b": "60 13",
+      "c": "13 60",
+      "d": "60 60"
+    },
+    "9": {
+      "a": "a.exe",
+      "b": "a",
+      "c": "a.out",
+      "d": "out.a"
+    },
+    "10": {
+      "a": "10",
+      "b": "20",
+      "c": "11",
+      "d": "21"
+    }
+  },
+  {
+    "1": "4",
+    "2": "wchar_t",
+    "3": "Both cannot be overloaded",
+    "4": "0",
+    "5": "0",
+    "6": "Both (a) and (b)",
+    "7": "Compile error",
+    "8": "60 13",
+    "9": "a.out",
+    "10": "11"
+  }
+]

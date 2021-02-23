@@ -1,0 +1,88 @@
+[
+  {
+    "1": "What guarantees type-safety in a collection?",
+    "2": "Which Map class should be most popular in a multi-threading environment, considering performance constraint?",
+    "3": "Which of the below are unchecked exceptions in java?",
+    "4": "How do you insert COMMENTS in Java code?",
+    "5": "Which of these is a super class of all errors and exceptions in the Java language?",
+    "6": "The built-in base class in Java, which is used to handle all exceptions is:",
+    "7": "In Java, when we implement an interface method, it must be declared as:",
+    "8": "Which of the following is not an operator in Java?",
+    "9": "Which data type is used to create a variable that should store text?",
+    "10": "How do you create a variable with the numeric value 5?"
+  },
+  {
+    "1": {
+      "a": "Generics",
+      "b": "Abstract classes",
+      "c": "Interfaces",
+      "d": "Collection"
+    },
+    "2": {
+      "a": "Hashtable",
+      "b": "CopyOnWriteMap",
+      "c": "ConcurrentHashMap",
+      "d": "ConcurrentMap"
+    },
+    "3": {
+      "a": "RuntimeException",
+      "b": "ClassCastException",
+      "c": "NullPointerException",
+      "d": "IOException"
+    },
+    "4": {
+      "a": "#",
+      "b": "/*",
+      "c": "//",
+      "d": "///"
+    },
+    "5": {
+      "a": "RunTimeExceptions",
+      "b": "Throwable",
+      "c": "Catchable",
+      "d": "None of the above"
+    },
+    "6": {
+      "a": "Raise",
+      "b": "Exception",
+      "c": "Error",
+      "d": "Throwable"
+    },
+    "7": {
+      "a": "Private",
+      "b": "Protected",
+      "c": "Public",
+      "d": "Friend"
+    },
+    "8": {
+      "a": "instanceof",
+      "b": "sizeof",
+      "c": "new",
+      "d": ">>>="
+    },
+    "9": {
+      "a": "string",
+      "b": "Txt",
+      "c": "myString",
+      "d": "String"
+    },
+    "10": {
+      "a": "num x=5",
+      "b": "x=5;",
+      "c": "int x=5;",
+      "d": "float x=5;"
+    }
+  },
+  {
+    "1": "Generics",
+    "2": "CopyOnWriteMap",
+    "3": "IOException",
+    "4": "//",
+    "5": "Throwable",
+    "6": "Throwable",
+    "7": "Public",
+    "8": ">>>=",
+    "9": "String",
+    "10": "int x=5;"
+  }
+]

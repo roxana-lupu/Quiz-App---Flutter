@@ -1,0 +1,88 @@
+[
+  {
+    "1": "Which of the following is a server-side Java Script object?",
+    "2": "To insert a JavaScript into an HTML page, which tag is used?",
+    "3": "Which of the following method is used to evaluate a string of Java Script code in the context of the specified object?",
+    "4": "What language defines the behavior of a web page?",
+    "5": "Java Script entities start with ____________ and end with",
+    "6": "Which of the following is correct to write “Hello World” on the web page?",
+    "7": "Which of the following is the tainted property of a window object in Java Script?",
+    "8": "Which attribute needs to be changed to make elements invisible?",
+    "9": "Which of the following is used to capture all click events in a window?",
+    "10": "Which of the following is not a valid JavaScript variable name?"
+  },
+  {
+    "1": {
+      "a": "Function",
+      "b": "File",
+      "c": "FileUpload",
+      "d": "Date"
+    },
+    "2": {
+      "a": "<script=’java’>",
+      "b": "<javascript>",
+      "c": "<script>",
+      "d": "<js>"
+    },
+    "3": {
+      "a": "Eval",
+      "b": "ParseDoule",
+      "c": "ParseObject",
+      "d": "Efloat"
+    },
+    "4": {
+      "a": "HTML",
+      "b": "XML",
+      "c": "CSS",
+      "d": "Java Script"
+    },
+    "5": {
+      "a": "Semicolon, colon",
+      "b": "Semicolon, Ampersand",
+      "c": "Ampersand, colon",
+      "d": "Ampersand, semicolon"
+    },
+    "6": {
+      "a": "System.out.println(“Hello World”)",
+      "b": "print(“Hello World”)",
+      "c": "document.write(“Hello World”)",
+      "d": "response.write(“Hello World”)"
+    },
+    "7": {
+      "a": "Pathname",
+      "b": "Protocol",
+      "c": "Defaultstatus",
+      "d": "Host"
+    },
+    "8": {
+      "a": "visibilty",
+      "b": "visible",
+      "c": "invisibility",
+      "d": "invisible"
+    },
+    "9": {
+      "a": "window.captureEvents(Event.CLICK);",
+      "b": "window.routeEvents(Event.CLICK );",
+      "c": "window.handleEvents (Event.CLICK);",
+      "d": "window.raiseEvents(Event.CLICK );"
+    },
+    "10": {
+      "a": "2java",
+      "b": "_java_and_ java _names",
+      "c": "javaandjava",
+      "d": "None of the above"
+    }
+  },
+  {
+    "1": "File",
+    "2": "<script>",
+    "3": "Eval",
+    "4": "Java Script",
+    "5": "Ampersand, semicolon",
+    "6": "document.write(“Hello World”)",
+    "7": "Defaultstatus",
+    "8": "visibilty",
+    "9": "window.captureEvents(Event.CLICK);",
+    "10": "2java"
+  }
+]

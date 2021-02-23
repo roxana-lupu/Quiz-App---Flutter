@@ -1,0 +1,88 @@
+[
+  {
+    "1": "Which constructor is called while assigning some object with another?",
+    "2": "Which one is not the basic element of OOP?",
+    "3": "Which specifier applies only to the constructors?",
+    "4": "An object is an instance of a:",
+    "5": "Which type of constructor can’t have a return type?",
+    "6": "The process by which objects of one class acquire the properties of objects of another class is known as:",
+    "7": "As a blueprint is a design for a house, a class is a design for a(n):",
+    "8": "The wrapping up of data and functions into a single unit is called:",
+    "9": "When is the static constructor called?",
+    "10": "Which of the following statements is incorrect?"
+  },
+  {
+    "1": {
+      "a": "Default",
+      "b": "Parameterized",
+      "c": "Copy",
+      "d": "Direct assignment is used"
+    },
+    "2": {
+      "a": "Class",
+      "b": "Abstraction",
+      "c": "BlueJ",
+      "d": "Polymorphism"
+    },
+    "3": {
+      "a": "Public",
+      "b": "Protected",
+      "c": "Implicit",
+      "d": "Explicit"
+    },
+    "4": {
+      "a": "parameter",
+      "b": "method",
+      "c": "class",
+      "d": "application"
+    },
+    "5": {
+      "a": "Default",
+      "b": "Parameterized",
+      "c": "Copy",
+      "d": "Constructors don’t have a return type"
+    },
+    "6": {
+      "a": "Polymorphism",
+      "b": "Inheritance",
+      "c": "Data Hiding",
+      "d": "None of the above"
+    },
+    "7": {
+      "a": "object",
+      "b": "variable",
+      "c": "constant",
+      "d": "statement"
+    },
+    "8": {
+      "a": "overloading",
+      "b": "class",
+      "c": "object",
+      "d": "encapsulation"
+    },
+    "9": {
+      "a": "After the first instance is created",
+      "b": "Before default constructor call of first instance",
+      "c": "Before first instance is created",
+      "d": "At time of creation of first instance"
+    },
+    "10": {
+      "a": "Class is an object factory",
+      "b": "Class is a composite type",
+      "c": "Class is an instance of an object",
+      "d": "Class is a user defined type"
+    }
+  },
+  {
+    "1": "Copy",
+    "2": "BlueJ",
+    "3": "Explicit",
+    "4": "class",
+    "5": "Constructors don’t have a return type",
+    "6": "Inheritance",
+    "7": "object",
+    "8": "encapsulation",
+    "9": "Before first instance is created",
+    "10": "Class is an instance of an object"
+  }
+]

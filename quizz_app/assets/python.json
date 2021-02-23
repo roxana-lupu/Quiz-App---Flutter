@@ -1,0 +1,88 @@
+[
+  {
+    "1": "What is output of: \n33 == 33.0",
+    "2": "Name the python module which supports regular expressions.",
+    "3": "For tuples and list which is correct?",
+    "4": "What is output for − min(\"hello world\")?",
+    "5": "What is output of following?\nprint('any'.encode())",
+    "6": "Which of the following keyword is used to define a function in Python?",
+    "7": "Analyze the code \n print(\"Recursive Function\") \ndef factorial(n): \n   return(n*factorial(n-1))  \nfactorial(4)",
+    "8": "Which code is used to open a file for binary writing?",
+    "9": "Suppose you are using a grid manager then which option is best suitable to place a component in multiple rows and columns?",
+    "10": "Which is the special symbol used in python to add comments?"
+  },
+  {
+    "1": {
+      "a": "False",
+      "b": "True",
+      "c": "33",
+      "d": "None of the above"
+    },
+    "2": {
+      "a": "regex",
+      "b": "re",
+      "c": "pyre",
+      "d": "pyregex"
+    },
+    "3": {
+      "a": "List and tuples both are mutable",
+      "b": "List is mutable whereas tuples are immutable",
+      "c": "List and tuples both are immutable",
+      "d": "List is immutable whereas tuples are mutable"
+    },
+    "4": {
+      "a": "e",
+      "b": "a blank space character",
+      "c": "w",
+      "d": "None of the above"
+    },
+    "5": {
+      "a": "'any'",
+      "b": "'yan'",
+      "c": "b'any'",
+      "d": "x'any'"
+    },
+    "6": {
+      "a": "func",
+      "b": "def",
+      "c": "void",
+      "d": "function"
+    },
+    "7": {
+      "a": "Recursive Function 24",
+      "b": "Recursive Function",
+      "c": "Causes a StackOverflowError",
+      "d": "Syntax Error"
+    },
+    "8": {
+      "a": "\"w\"",
+      "b": "\"wb\"",
+      "c": "\"r+\"",
+      "d": "\"a\""
+    },
+    "9": {
+      "a": "Columnspan and rowspan",
+      "b": "Only row",
+      "c": "Only column",
+      "d": "Only rowspan"
+    },
+    "10": {
+      "a": "$",
+      "b": "//",
+      "c": "/*....*/",
+      "d": "#"
+    }
+  },
+  {
+    "1": "True",
+    "2": "re",
+    "3": "List is mutable whereas tuples are immutable",
+    "4": "a blank space character",
+    "5": "b'any'",
+    "6": "def",
+    "7": "Causes a StackOverflowError",
+    "8": "\"wb\"",
+    "9": "Columnspan and rowspan",
+    "10": "#"
+  }
+]
